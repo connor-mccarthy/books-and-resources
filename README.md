@@ -12,13 +12,13 @@
 
 
 ### Blogs and Websites
-[DeepMind](https://deepmind.com/)
-[Google AI Blog](https://ai.googleblog.com/)
-[Distill](https://distill.pub/)
-[Airbnb Engineering & Data Science](https://airbnb.io/)
-[Carnegie Mellon University Machine Learning Blog](https://blog.ml.cmu.edu/)
-[Netflix TechBlog](https://netflixtechblog.com/?gi=b085fa3bc7ae)
-[No Free Hunch (Kaggle)](https://medium.com/kaggle-blog)
-[OpenAI](https://openai.com/blog/)
-[Pythonic Perambulations](http://jakevdp.github.io/)
-[ShortScience.org](https://www.shortscience.org/)
+[DeepMind](https://deepmind.com/)  
+[Google AI Blog](https://ai.googleblog.com/)  
+[Distill](https://distill.pub/)  
+[Airbnb Engineering & Data Science](https://airbnb.io/)  
+[Carnegie Mellon University Machine Learning Blog](https://blog.ml.cmu.edu/)  
+[Netflix TechBlog](https://netflixtechblog.com/?gi=b085fa3bc7ae)  
+[No Free Hunch (Kaggle)](https://medium.com/kaggle-blog)  
+[OpenAI](https://openai.com/blog/)  
+[Pythonic Perambulations](http://jakevdp.github.io/)  
+[ShortScience.org](https://www.shortscience.org/)  

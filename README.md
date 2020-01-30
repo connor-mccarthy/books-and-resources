@@ -24,4 +24,5 @@
 [No Free Hunch (Kaggle)](https://medium.com/kaggle-blog)  
 [OpenAI](https://openai.com/blog/)  
 [Pythonic Perambulations](http://jakevdp.github.io/)  
-[ShortScience.org](https://www.shortscience.org/)
+[ShortScience.org](https://www.shortscience.org/)  
+[The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)

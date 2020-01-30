@@ -4,7 +4,7 @@
 [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  
 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  
 [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)  
-[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)  
 [scikit-learn Documentation](https://scikit-learn.org/stable/)  
 
 ### Classical Statistics

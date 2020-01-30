@@ -8,11 +8,11 @@
 [scikit-learn Documentation](https://scikit-learn.org/stable/)  
 
 ### Classical Statistics
-[Hypothesis Testing Misinterpretation (Paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
+[Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
 
 ### Figures  
 [Elegant Figures (NASA)](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)  
-[Diverging Color Maps for Scientific Visualization](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ColorMapsExpanded.pdf)
+[Diverging Color Maps for Scientific Visualization (paper](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ColorMapsExpanded.pdf)
 
 ### Blogs and Websites
 [DeepMind](https://deepmind.com/)  

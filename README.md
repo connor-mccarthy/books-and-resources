@@ -25,7 +25,7 @@
 [OpenAI](https://openai.com/blog/)  
 [Pythonic Perambulations](http://jakevdp.github.io/)  
 [ShortScience.org](https://www.shortscience.org/)  
-[The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+[The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)  
 [Uber Engineering Blog](eng.uber.com)  
 [Locally Optimistic](www.locallyoptimistic.com)  
 [Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)

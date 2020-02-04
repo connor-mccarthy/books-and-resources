@@ -17,6 +17,7 @@
 ### Blogs and Websites
 [DeepMind](https://deepmind.com/)  
 [Google AI Blog](https://ai.googleblog.com/)  
+[Harvard Data Science Review] (https://hdsr.mitpress.mit.edu/)  
 [Distill](https://distill.pub/)  
 [Airbnb Engineering & Data Science](https://airbnb.io/)  
 [Carnegie Mellon University Machine Learning Blog](https://blog.ml.cmu.edu/)  

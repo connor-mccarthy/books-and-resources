@@ -6,6 +6,7 @@
 [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)  
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)  
 [scikit-learn Documentation](https://scikit-learn.org/stable/)  
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Classical Statistics
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)

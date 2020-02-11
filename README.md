@@ -7,6 +7,8 @@
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)  
 [scikit-learn Documentation](https://scikit-learn.org/stable/)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+[Deep Learning: A Practitioner's Approach](http://csis.pace.edu/~ctappert/cs855-18fall/DeepLearningPractitionersApproach.pdf)  
+[Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)  
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Classical Statistics

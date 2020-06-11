@@ -11,7 +11,7 @@
 [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)  
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
 [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)  
-[Annotated Bibliography of ML and Statistics Techniques] (http://ethen8181.github.io/machine-learning/)  
+[Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/)  
 
 ### Classical Statistics
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)

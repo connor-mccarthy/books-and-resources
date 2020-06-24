@@ -18,7 +18,10 @@
 
 ### Figures  
 [Elegant Figures (NASA)](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)  
-[Diverging Color Maps for Scientific Visualization (paper)](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ColorMapsExpanded.pdf)  
+[Diverging Color Maps for Scientific Visualization (paper)](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ColorMapsExpanded.pdf) 
+
+### Programming  
+[Python testing with pytest](http://library.sadjad.ac.ir/opac/temp/18467.pdf)  
 
 ### Git  
 [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)  

@@ -22,6 +22,7 @@
 
 ### Programming  
 [Python testing with pytest](http://library.sadjad.ac.ir/opac/temp/18467.pdf)  
+[Practices of the Python Pro](http://xn--webducation-dbb.com/wp-content/uploads/2020/01/Dane-Hillard-Practices-of-the-Python-Pro-Manning-Publications-2020.pdf)  
 
 ### Git  
 [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)  

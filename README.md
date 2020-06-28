@@ -48,6 +48,5 @@
 [Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)  
 
 ### Workflow Packages  
-[smartcd](https://github.com/cxreg/smartcd)  
 [cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 [gitflow](https://github.com/nvie/gitflow) (use `brew install git-flow`)  

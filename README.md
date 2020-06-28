@@ -24,6 +24,7 @@
 [Python Testing with pytest](http://library.sadjad.ac.ir/opac/temp/18467.pdf)  
 [Practices of the Python Pro](http://xn--webducation-dbb.com/wp-content/uploads/2020/01/Dane-Hillard-Practices-of-the-Python-Pro-Manning-Publications-2020.pdf)  
 [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)  
+[Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)  
 
 ### Git  
 [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)  

@@ -21,7 +21,7 @@
 [Diverging Color Maps for Scientific Visualization (paper)](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ColorMapsExpanded.pdf) 
 
 ### Programming  
-[Python testing with pytest](http://library.sadjad.ac.ir/opac/temp/18467.pdf)  
+[Python Testing with pytest](http://library.sadjad.ac.ir/opac/temp/18467.pdf)  
 [Practices of the Python Pro](http://xn--webducation-dbb.com/wp-content/uploads/2020/01/Dane-Hillard-Practices-of-the-Python-Pro-Manning-Publications-2020.pdf)  
 [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)  
 

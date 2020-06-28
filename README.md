@@ -45,4 +45,9 @@
 [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)  
 [Uber Engineering Blog](eng.uber.com)  
 [Locally Optimistic](www.locallyoptimistic.com)  
-[Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)
+[Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)  
+
+### Workflow Packages  
+[smartcd](https://github.com/cxreg/smartcd)  
+[cookiecutter](https://github.com/cookiecutter/cookiecutter)  
+[gitflow](https://github.com/nvie/gitflow) (use `brew install git-flow`)  

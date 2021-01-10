@@ -13,8 +13,9 @@
 [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)  
 [Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/)  
 
-### Classical Statistics
+### Statistics / Probability / Quantitative Methods
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
+[Quantitative Economics with Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)
 
 ### Figures  
 [Elegant Figures (NASA)](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)  

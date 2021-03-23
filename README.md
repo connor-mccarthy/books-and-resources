@@ -49,6 +49,5 @@
 [Locally Optimistic](www.locallyoptimistic.com)  
 [Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)  
 
-### Workflow Packages  
-[cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-[gitflow](https://github.com/nvie/gitflow) (use `brew install git-flow`)  
+## Computer Science
+[Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)

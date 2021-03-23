@@ -1,8 +1,8 @@
 # Books and Resources
 
 ### Machine Learning
-[Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  
-[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  
+[An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  
 [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)  
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)  
 [scikit-learn Documentation](https://scikit-learn.org/stable/)  
@@ -15,7 +15,8 @@
 
 ### Statistics / Probability / Quantitative Methods
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
-[Quantitative Economics with Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)
+[Quantitative Economics with Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)  
+[Think Bayes](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 
 ### Figures  
 [Elegant Figures (NASA)](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)  

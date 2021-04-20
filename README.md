@@ -13,6 +13,7 @@
 [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)  
 [Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/) 
 [Deep Learning](https://www.deeplearningbook.org/)  
+[Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 ### Statistics / Probability / Quantitative Methods
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
@@ -55,3 +56,6 @@
 
 ## UX
 [The Laws of UX](https://lawsofux.com/)
+
+## Recommendation Systems
+[Microsoft's Recommendation Systems Best Practices](https://github.com/microsoft/recommenders)

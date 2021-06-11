@@ -14,6 +14,7 @@
 [Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/) 
 [Deep Learning](https://www.deeplearningbook.org/)  
 [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
+[Semi-Supervised Learning](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
 
 ### Statistics / Probability / Quantitative Methods
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)

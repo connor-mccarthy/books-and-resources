@@ -53,7 +53,7 @@
 [Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)  
 
 ## Computer Science
-[Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)
+[Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)  
 [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog)
 
 ## UX

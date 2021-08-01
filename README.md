@@ -74,4 +74,5 @@
 
 ## Web
 
-[HTTP](http://www.staroceans.org/e-book/O'Reilly%20-%20HTTP%20-%20The%20Definitive%20Guide.pdf)
+[HTTP](http://www.staroceans.org/e-book/O'Reilly%20-%20HTTP%20-%20The%20Definitive%20Guide.pdf)  
+[Mozilla Web Docs: HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)

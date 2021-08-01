@@ -21,7 +21,8 @@
 
 [Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
 [Quantitative Economics with Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)  
-[Think Bayes](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
+[Think Bayes](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)  
+[Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
 
 ### Figures
 
@@ -60,7 +61,8 @@
 
 ## Computer Science
 
-[Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)
+[Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)  
+[Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog)
 
 ## UX
 

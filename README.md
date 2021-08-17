@@ -16,7 +16,10 @@
 [Deep Learning](https://www.deeplearningbook.org/)  
 [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 [Semi-Supervised Learning](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)  
+
+### MLOps
 [Made with ML](https://madewithml.com/)  
+[Feature Store](https://www.featurestore.org/)  
 
 ### Statistics / Probability / Quantitative Methods
 

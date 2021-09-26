@@ -23,7 +23,7 @@
 
 ### Statistics / Probability / Quantitative Methods
 
-[Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
+[Hypothesis Testing Misinterpretation (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
 [Quantitative Economics with Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)  
 [Think Bayes](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf)  
 [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)

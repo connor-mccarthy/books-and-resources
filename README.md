@@ -68,7 +68,8 @@
 [Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)  
 [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog)  
 [Big O Cheat Sheet](https://www.bigocheatsheet.com/)  
-[Data Structures & Algorithms (Google)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms)
+[Data Structures & Algorithms (Google)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms)  
+[VisuAlgo - Visualization of Algorithms](https://visualgo.net/en)
 
 ### UX
 

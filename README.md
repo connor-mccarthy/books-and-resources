@@ -12,7 +12,7 @@
 [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://github.com/yanshengjia/ml-road/blob/master/resources/Feature%20Engineering%20for%20Machine%20Learning.pdf)  
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
 [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf)  
-[Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/)
+[Annotated Bibliography of ML and Statistics Techniques](http://ethen8181.github.io/machine-learning/)  
 [Deep Learning](https://www.deeplearningbook.org/)  
 [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 [Semi-Supervised Learning](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)  

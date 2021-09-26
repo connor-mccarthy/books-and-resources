@@ -63,20 +63,20 @@
 [Locally Optimistic](www.locallyoptimistic.com)  
 [Multithreaded -- Stitch Fix Data Science Blog](https://multithreaded.stitchfix.com/blog/)
 
-## Computer Science
+### Computer Science
 
 [Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)  
 [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog)
 
-## UX
+### UX
 
 [The Laws of UX](https://lawsofux.com/)
 
-## Recommendation Systems
+### Recommendation Systems
 
 [Microsoft's Recommendation Systems Best Practices](https://github.com/microsoft/recommenders)
 
-## Web
+### Web
 
 [HTTP](http://www.staroceans.org/e-book/O'Reilly%20-%20HTTP%20-%20The%20Definitive%20Guide.pdf)  
 [Mozilla Web Docs: HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)  

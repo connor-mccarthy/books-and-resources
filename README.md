@@ -16,6 +16,7 @@
 [Deep Learning](https://www.deeplearningbook.org/)  
 [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 [Semi-Supervised Learning](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)  
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
 
 ### MLOps
 [Made with ML](https://madewithml.com/)  

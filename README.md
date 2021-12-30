@@ -72,6 +72,7 @@
 
 ### Computer Science / Software Done Well
 
+[connascence.io](https://connascence.io/)  
 [Coupling, Cohesion & Connascence](https://khalilstemmler.com/wiki/coupling-cohesion-connascence/)  
 [Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)  
 [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog)  
